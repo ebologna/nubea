@@ -1,0 +1,11 @@
+{{ define "main" }}
+
+<div class="custom-section">
+  {{ .Content }}
+</div>
+
+{{ range .Paginator.Pages }}
+  {{ .Render "summary" }}
+{{ end }}
+
+{{ end }}
