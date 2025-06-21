@@ -1,7 +1,6 @@
 baseurl: /
 languageCode: en-US
-title: Neuro Balance Integral 
-      - Un camino para recuperar la concentración y el bienestar
+title: My Yoga Place
 theme: "Hugo-Octopress"
 ignoreFiles:
   - \.Rmd$
