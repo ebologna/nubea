@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-US
-title: My Yoga Place  
+title: My Yoga Place 
 theme: "Hugo-Octopress"
 ignoreFiles:
   - \.Rmd$
